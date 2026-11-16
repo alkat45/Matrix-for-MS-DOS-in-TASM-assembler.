@@ -1,5 +1,10 @@
 # Matrix-for-MS-DOS-in-TASM-assembler.
+
 MATRIX is a demoscene program that creates a visual effect of "digital rain" aka "matrix code" using the author's algorithm, created for disk operating systems. Created by alkat45 under GPLv3 license, which you can read in the [LICENSE](LICENSE) file. Maked on MS-DOS 6.22 in EDIT with compiler TASM 4.0 for PCs with a processor intel 8088 aka intel 8086.
+
+<div align="center">
+  <img src="https://alkat45.neocities.org/other/matrix.asm_img4githup.jpg" alt="matrix.asm_img4githup.jpg]">
+</div>
 
 ## How to just see this demoscene?
 
